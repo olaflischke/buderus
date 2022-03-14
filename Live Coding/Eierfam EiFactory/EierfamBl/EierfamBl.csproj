@@ -12,6 +12,7 @@
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,6 +22,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -29,6 +31,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -42,11 +45,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Ei.cs" />
+    <Compile Include="EiFactory.cs" />
     <Compile Include="Ente.cs" />
+    <Compile Include="EntenEi.cs" />
+    <Compile Include="GaenseEi.cs" />
     <Compile Include="Gans.cs" />
     <Compile Include="Gefluegel.cs" />
+    <Compile Include="HuehnerEi.cs" />
     <Compile Include="Huhn.cs" />
+    <Compile Include="IEiLeger.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Saeugetier.cs" />
+    <Compile Include="Schnabeltier.cs" />
+    <Compile Include="SchnabeltierEi.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
