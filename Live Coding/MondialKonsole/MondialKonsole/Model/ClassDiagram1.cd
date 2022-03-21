@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="mondial" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAgQBAAAAAAIAYAAAgQDAAAAAAEAAABDAEAgAAEAAAg=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="country">
+    <Position X="12.25" Y="5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>SIFBAQSgAAiKKQxABYAkgBXsDgAEKACDBDhgygUBAAE=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="population">
+    <Position X="9" Y="6.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAACAAAAAAAAAAAAAAAAAAACAAAAAAAoAAgAAAA=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dependent" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAA=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="indep_date" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAQAAAAAAAAAAAAAAACAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="encompassed" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEIAAAAAAAAAAAAAAEAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="percentageproperty" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAACAAAIAAAgAAAAAAA=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="border" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAIAAAAAIAEAAAAAAAAAAAAADAAAAAAAAAAA=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="city">
+    <Position X="13.5" Y="0.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>IAIAQQAAQCjAAAAAgJAAgAEACCCMIKBDDAAEAAAAAgI=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="located_at" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KAAABAAAAAAAAQAAAAQCAAAAAAAAAAAAAAAAAAEAEAA=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="located_on" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="province" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAQAAAAgAAAAAAIAAiAEACAAEACADBAAAAAABAgE=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="continent" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAIAAAAAAAAAEACAABAAAAAABAgE=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="organization" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAQBAAAAAAAAAIAAEAAAAEAEACRAgQAAAIAAAgA=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="members" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAABAAADAAAAAAAAAAA=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sea" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAgBBAgIAAAAAAAAAEACAjBAAAIBAhAgE=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="located" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAADAAAAAAAAAAI=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="river" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAAIACQAZAAMABAAggAIAEACADhAAAAAAhAg0=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="through" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="to" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAIAAAAAAAEAA=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="source" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAQAIAQAAQBABAggAAAAAACACAIABDCAAEAAAgAAA=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="from" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAIAAAAAAAEAA=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="estuary" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAQAAAQAAAAABAgAAAAAAACACAIABDCAAEAAAgAAA=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lake" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIIAQAAEQAxCABRCgJARAAgQCACFICBjjAAEIAAhggk=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="island" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KIIARAAAQABCAQBAgIQSAAAACACFICBDDAgEAAEhAgE=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="mountain" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAQAAAQABChQBAgoARAAAACACFICBDDAAEAAAgAgk=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="desert" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIIAQAAAAAACCABAgIAAAAAACAAFACADDAREAAAxAgE=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="airport" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAQAAAQAAAAAgAgIAECAAACASEIABDDAAEAAAAKAA=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="located_atWatertype" Collapsed="true">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAQAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="lakeType" Collapsed="true">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAEAAACAAQAIAAAIAAAAAAAAABBAAAAAAAAAQ=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="islandType" Collapsed="true">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAiAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="mountainType" Collapsed="true">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAgAAEAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="desertType" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAQABAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\mondial.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

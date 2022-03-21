@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Huhn xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>a18172f7-b537-490c-b680-c9d7450e5426</Id>
+  <Name>Neues Huhn</Name>
+  <Gewicht>1500</Gewicht>
+  <Eier>
+    <Ei xsi:type="HuehnerEi">
+      <Id>cca4813b-5428-4540-8abb-f3707e42733b</Id>
+      <Gewicht>63</Gewicht>
+      <Legedatum>2022-03-14T10:25:53.0456346+01:00</Legedatum>
+      <Farbe>Dúnkel</Farbe>
+    </Ei>
+    <Ei xsi:type="HuehnerEi">
+      <Id>4c9190a3-5d49-4e46-9195-5da6fd3f0c98</Id>
+      <Gewicht>71</Gewicht>
+      <Legedatum>2022-03-14T10:25:53.2329716+01:00</Legedatum>
+      <Farbe>Gruen</Farbe>
+    </Ei>
+    <Ei xsi:type="HuehnerEi">
+      <Id>6256e720-e3ba-406e-b10d-d8cfa14e3959</Id>
+      <Gewicht>66</Gewicht>
+      <Legedatum>2022-03-14T10:25:53.4076832+01:00</Legedatum>
+      <Farbe>Dúnkel</Farbe>
+    </Ei>
+  </Eier>
+</Huhn>
